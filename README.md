@@ -1,5 +1,5 @@
 # SICNet
-Tensorflow implementation of SICNet: a deep learning-based successive interference cancellation (SIC) receiver for non-orthogonal downlink systems
+Tensorflow implementation of SICNet: a deep learning-based successive interference cancellation (SIC) receiver for non-orthogonal downlink
 
 See my paper for more detail:
 
